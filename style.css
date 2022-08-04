@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    margin: 0;
+    background-image: url(antar.jpg)
+}
+.conteiner{color: white;
+}
+.centr{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+h1, p{
+font-family: 'Courier New', Courier, monospace;
+font-weight: lighter;
+} 
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 50px;
+    letter-spacing: 5px;
+}
