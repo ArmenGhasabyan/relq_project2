@@ -16,6 +16,6 @@ let countDownfunction = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(countDownfunction);
-        document.getElementById("timer").innerHTML = "shnorhavor nor tari"
+        document.getElementById("timer").innerHTML = "Поздравляем с завершением уроков"
     }
 },1000)
